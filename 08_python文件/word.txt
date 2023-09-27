@@ -1,0 +1,6 @@
+itheima itcast python
+itheima python itcast
+beijing shanghai itheima
+shenzhen guangzhou itheima
+wuhan hangzhou itheima
+zhengzhou bigdata itheima
